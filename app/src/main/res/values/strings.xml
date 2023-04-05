@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_halaman_fragment_pertama">Ini Halaman Fragment Pertama</string>
+    <string name="ini_halaman_fragment_ketiga">ini Halaman Fragment Ketiga</string>
+    <string name="haloo">Haloo,</string>
+    <string name="klik_untuk_ke_halaman_2">Klik Untuk Ke halaman 2</string>
+    <string name="ini_halaman_fragment_kedua">Ini Halaman Fragment Kedua</string>
+    <string name="tulis_nama">Tulis Nama</string>
+    <string name="klik_untuk_ke_halaman_3">Klik Untuk Ke halaman 3</string>
+</resources>
